@@ -26,3 +26,8 @@ h2{
 body{
 	text-align: center;
 }
+#bas{
+	height: 100px
+	width: 100px;
+	border-radius: 100%
+}
